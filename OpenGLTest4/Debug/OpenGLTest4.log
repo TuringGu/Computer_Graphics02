@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest4\main.cpp(16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest4\main.cpp(17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest4\main.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest4\main.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OpenGLTest4.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\OpenGLTest4.exe

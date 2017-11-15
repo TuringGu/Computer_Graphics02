@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest3\main.cpp(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest3\main.cpp(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLTest3.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\OpenGLTest3.exe

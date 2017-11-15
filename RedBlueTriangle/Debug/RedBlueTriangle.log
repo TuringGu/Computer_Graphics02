@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\redbluetriangle\main.cpp(17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\redbluetriangle\main.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  RedBlueTriangle.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\RedBlueTriangle.exe

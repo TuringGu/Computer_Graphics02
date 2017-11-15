@@ -1,0 +1,19 @@
+﻿  opengl.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl_2d_tools.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(324): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(340): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(349): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(351): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(358): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(360): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(367): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(379): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(388): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(395): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(404): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(406): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(413): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(415): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\openglexp01\opengl.cpp(422): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLExp01.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\OpenGLExp01.exe

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\mapping\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\mapping\main.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\mapping\main.cpp(54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Mapping.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\Mapping.exe
+  Mapping.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\Mapping.pdb (Partial PDB)

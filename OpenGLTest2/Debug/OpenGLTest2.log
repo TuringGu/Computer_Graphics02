@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\main.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\main.cpp(19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Header.h
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\header.h(6): warning C4101: 'm': unreferenced local variable
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\header.h(5): warning C4101: 'dy': unreferenced local variable
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\header.h(5): warning C4101: 'y': unreferenced local variable
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\header.h(5): warning C4101: 'x': unreferenced local variable
+c:\users\px780\documents\visual studio 2017\projects\computer_graphics\opengltest2\header.h(5): warning C4101: 'dx': unreferenced local variable
+  Generating Code...
+  OpenGLTest2.vcxproj -> C:\Users\px780\documents\visual studio 2017\Projects\Computer_Graphics\Debug\OpenGLTest2.exe
