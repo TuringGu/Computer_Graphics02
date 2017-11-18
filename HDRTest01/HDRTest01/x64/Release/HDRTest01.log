@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  HDRTest01.cpp
+D:\work\VSWorkspace\Computer_Graphics\HDRTest01\packages\opencv3.3.0.0.1\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\work\VSWorkspace\Computer_Graphics\HDRTest01\packages\opencv3.3.0.0.1\build\native\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\work\VSWorkspace\Computer_Graphics\HDRTest01\packages\opencv3.3.0.0.1\build\native\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\work\VSWorkspace\Computer_Graphics\HDRTest01\packages\opencv3.3.0.0.1\build\native\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+HDRTest01.obj : error LNK2001: unresolved external symbol "private: char * __cdecl cv::String::allocate(unsigned __int64)" (?allocate@String@cv@@AEAAPEAD_K@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+HDRTest01.obj : error LNK2001: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPEAX@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QEAAXXZ)
+HDRTest01.obj : error LNK2001: unresolved external symbol "public: __cdecl cv::VideoCapture::VideoCapture(int)" (??0VideoCapture@cv@@QEAA@H@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "public: virtual __cdecl cv::VideoCapture::~VideoCapture(void)" (??1VideoCapture@cv@@UEAA@XZ)
+HDRTest01.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl cv::VideoCapture::isOpened(void)const " (?isOpened@VideoCapture@cv@@UEBA_NXZ)
+HDRTest01.obj : error LNK2001: unresolved external symbol "void __cdecl cv::namedWindow(class cv::String const &,int)" (?namedWindow@cv@@YAXAEBVString@1@H@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z)
+HDRTest01.obj : error LNK2001: unresolved external symbol "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)
+D:\work\VSWorkspace\Computer_Graphics\HDRTest01\x64\Release\HDRTest01.exe : fatal error LNK1120: 11 unresolved externals

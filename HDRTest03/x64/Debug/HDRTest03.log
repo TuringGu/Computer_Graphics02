@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+d:\work\vsworkspace\computer_graphics\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\packages\opencv3.1.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  HDRTest03.cpp
+  HDRTest03.vcxproj -> D:\work\VSWorkspace\Computer_Graphics\x64\Debug\HDRTest03.exe
+  HDRTest03.vcxproj -> D:\work\VSWorkspace\Computer_Graphics\x64\Debug\HDRTest03.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+d:\work\vsworkspace\computer_graphics\hdrtest01\packages\opencv3.1.1.0\build\native\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\hdrtest01\packages\opencv3.1.1.0\build\native\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\hdrtest01\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\work\vsworkspace\computer_graphics\hdrtest01\packages\opencv3.1.1.0\build\native\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  HDRTest01.cpp
+d:\work\vsworkspace\computer_graphics\hdrtest01\hdrtest01\hdrtest01.cpp(58): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\computer_graphics\hdrtest01\hdrtest01\hdrtest01.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+  HDRTest01.vcxproj -> D:\work\VSWorkspace\Computer_Graphics\HDRTest01\x64\Debug\HDRTest01.exe
+  HDRTest01.vcxproj -> D:\work\VSWorkspace\Computer_Graphics\HDRTest01\x64\Debug\HDRTest01.pdb (Full PDB)
