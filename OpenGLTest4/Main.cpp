@@ -13,8 +13,8 @@
 void LineGL(int x0, int y0, int x1, int y1)
 {
 	glBegin(GL_LINES);
-	glColor3f(1.0f, 0.0f, 0.0f);	glVertex2f(x0, y0);
-	glColor3f(0.0f, 1.0f, 0.0f);	glVertex2f(x1, y1);
+	glColor3f(1.0f, 1.0f, 1.0f);	glVertex2f(x0, y0);
+	glColor3f(1.0f, 1.0f, 1.0f);	glVertex2f(x1, y1);
 	glEnd();
 }
 
@@ -136,7 +136,7 @@ void Init()
 	rect.ymax = 300;
 
 	// test instances
-	x0 = 0, y0 = 450, x1 = 450, y1 = 0;		// partly inside the window
+	//x0 = 0, y0 = 450, x1 = 450, y1 = 0;		// partly inside the window
 	//x0 = 450, y0 = 0, x1 = 0, y1 = 450;		// partly inside the window
 
 	//x0 = 110, y0 = 320, x1 = 280, y1 = 150;	// partly inside the window
@@ -146,7 +146,7 @@ void Init()
 	//x0 = 270, y0 = 110, x1 = 150, y1 = 280;	// completely inside the window
 
 	//x0 = 91, y0 = 10, x1 = 406, y1 = 500;		// partly inside the window
-	//x0 = 10, y0 = 91, x1 = 500, y1 = 406;		// partly inside the window
+	x0 = 10, y0 = 91, x1 = 500, y1 = 406;		// partly inside the window
 
 	//x0 = 380, y0 = 500, x1 = 420, y1 = 296;		// completely outside the window
 	

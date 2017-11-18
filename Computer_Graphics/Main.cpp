@@ -27,6 +27,5 @@
 // The test function
 int main()
 {
-
 	ScanConversionTest();
 }
